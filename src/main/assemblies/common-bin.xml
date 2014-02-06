@@ -9,6 +9,8 @@
                 <include>net.java.dev.jna:jna</include>
                 <include>com.spatial4j:spatial4j</include>
                 <include>com.vividsolutions:jts</include>
+                <include>org.sql2o:sql2o</include>
+                <include>org.slf4j:slf4j-api</include>
             </includes>
         </dependencySet>
         <dependencySet>
